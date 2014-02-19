@@ -1,4 +1,4 @@
-**NOTE:** Find the original website archived [in the Wayback Machine.][6]
+**NOTE:** Find the original website archived [in the Wayback Machine][6].
 
 ---
 
