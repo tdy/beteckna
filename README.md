@@ -4,7 +4,7 @@
 
 # Beteckna
 
-This font is a geometric sans-serif typeface inspired by [Paul Renner][1]'s popular type, [Futura][2]. It was drawn by Johan Mattsson in May 2007. The font is free, licensed under terms of the GNU GPL. This version supports English and a few nordic languages. Special character &\#x2708; ( ✈ ) depicts two cats.
+This font is a geometric sans-serif typeface inspired by [Paul Renner][1]'s popular type, [Futura][2]. It was drawn by Johan Mattsson in May 2007. The font is free, licensed under terms of the GNU GPL. This version supports English and a few nordic languages. Special character ``&#x2708;`` ( ✈ ) depicts two cats.
 
 ## File Formats
 
